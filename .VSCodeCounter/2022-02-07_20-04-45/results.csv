@@ -1,0 +1,12 @@
+"filename", "language", "JSON", "JavaScript", "comment", "blank", "total"
+"/Users/mariasarcinelli/Downloads/cypressExample/cypress.json", "JSON", 1, 0, 0, 1, 2
+"/Users/mariasarcinelli/Downloads/cypressExample/cypress/fixtures/example.json", "JSON", 5, 0, 0, 1, 6
+"/Users/mariasarcinelli/Downloads/cypressExample/cypress/fixtures/profile.json", "JSON", 5, 0, 0, 0, 5
+"/Users/mariasarcinelli/Downloads/cypressExample/cypress/fixtures/users.json", "JSON", 232, 0, 0, 0, 232
+"/Users/mariasarcinelli/Downloads/cypressExample/cypress/integration/index.js", "JavaScript", 0, 21, 2, 3, 26
+"/Users/mariasarcinelli/Downloads/cypressExample/cypress/plugins/index.js", "JavaScript", 0, 2, 18, 3, 23
+"/Users/mariasarcinelli/Downloads/cypressExample/cypress/support/commands.js", "JavaScript", 0, 0, 25, 1, 26
+"/Users/mariasarcinelli/Downloads/cypressExample/cypress/support/index.js", "JavaScript", 0, 1, 17, 3, 21
+"/Users/mariasarcinelli/Downloads/cypressExample/package-lock.json", "JSON", 1368, 0, 0, 1, 1369
+"/Users/mariasarcinelli/Downloads/cypressExample/package.json", "JSON", 14, 0, 0, 1, 15
+"Total", "-", 1625, 24, 62, 14, 1725
